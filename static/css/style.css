@@ -1,0 +1,96 @@
+.header_paragraph{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.search{
+    display: block;
+    margin-left: 26%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 400px;
+    font-size: 20px;
+    border-radius: 20px;
+    padding-left: 10px;
+    border-width: 2px;
+    border-color: rgb(194, 187, 187);
+    box-shadow: 0px 0px 5px rgba(22, 22, 22, 0.627);
+    border: none;
+
+}
+.search:hover{
+    box-shadow: 0px 0px 1px rgba(22, 22, 22, 0.627);
+
+    border: none;
+}
+.search:active{
+    /* box-shadow: 0px 0px 20px rgba(199, 95, 39, 0.753); */
+    border: none;
+}
+.search:focus{
+    outline: none;
+    margin-left: 25%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 430px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .card {
+    width: 80%;
+    height: 150px;
+    margin: 10%;
+    border: 1px solid rgb(171, 168, 168);
+    border-radius: 6px;
+    padding: 0;
+  }
+  .card h2 {
+    padding: 5px 10px;
+    margin: 0;
+  }
+  table {
+    width: 95%;
+    height: 100px;
+    margin: auto;
+    border: 1px solid rgb(171, 168, 168);
+    border-collapse: collapse;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 1px 1px rgb(171, 168, 168);
+    padding: 0;
+  }
+  
+  th,
+  td {
+    border: 1px solid grey;
+    padding: 5px;
+    margin: 0;
+  }
+  thead {
+    border-top: 4px solid rgb(200, 255, 0);
+    background-color: rgb(241, 232, 232);
+    margin: 0;
+    padding: 0;
+  }
+  
+  tbody tr td {
+    padding: 10px 20px;
+    margin: 0;
+  }
+  .Gulnoza{
+  display: inline-block;
+  padding-top: 90px;
+  color: rgb(235, 51, 9);
+  }
+
+.Abror{
+  display: inline-block;
+  margin-left: 1050px;
+  text-align: right;
+  color: rgb(79, 38, 230);
+  }
+
