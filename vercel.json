@@ -20,7 +20,7 @@
     },
     {
           "src": "/(.*)",
-          "dest": "pool/wsgi.py"
+          "dest": "poll/wsgi.py"
     }
   ]
 }
